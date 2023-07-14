@@ -1,9 +1,4 @@
-col-1{
-    flex-basis: 43%;
-    flex-grow: 1;
-    background-image: url(Background.png);
+body {
+    background-image: url('Background.png');
     background-size: cover;
-    background-position: center;
-    padding: 40px;
-    color: #fff;
 }
